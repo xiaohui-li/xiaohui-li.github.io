@@ -1820,7 +1820,7 @@
   white-space:nowrap;
 }
 body.a {  background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/index/bg.jpg');
+  background-image:url('../../images/index/bg_a.jpg');
   background-position:left top;
   background-repeat:no-repeat;
   background-attachment:fixed;
@@ -2749,7 +2749,7 @@ body.a {  background-color:rgba(255, 255, 255, 1);
 #u76.a {
 }
 #u77.a {
-  left:171px;
+  left:170px;
   top:573px;
   width:81px;
   height:28px;
@@ -2776,7 +2776,7 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   width:81px;
 }
 #u79.a {
-  left:147px;
+  left:146px;
   top:601px;
   width:129px;
   height:17px;
